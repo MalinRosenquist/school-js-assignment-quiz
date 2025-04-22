@@ -1,4 +1,8 @@
-# Trello Log - Team Swift
+# Quiz
+
+This project is a collaborative effort to build a quiz application. It was our first group assignment and also our first experience using TypeScript. As part of both our JavaScript and Agile courses, we followed an agile development process, allowing us to break down the project into smaller tasks and work iteratively, improving the app with each iteration. The goal was to create an interactive and user-friendly quiz app, while learning and applying TypeScript and agile practices for the first time.
+
+## Trello Log - Team Swift
 
 _Trello board on December 13, 2024._ ![Trello board on 13.dec.2024](./public/trello-logs/first-sprint.png)
 
@@ -14,13 +18,13 @@ _Trello board on January 2, 2025._ ![Trello board on 2.jan.2025](./public/trello
 
 _Trello board on January 3, 2025._ ![Trello board on 3.jan.2025](./public/trello-logs/swift-group-log-3-jan.png)
 
-# Retro Log - Team Swift
+## Retro Log - Team Swift
 
 _Retro board on December 27, 2024._ ![Retro board on 27.dec.2024](./public/retro-logs/swift-grout-retro-27-dec.jpg)
 
 _Retro board on January 3, 2025._ ![Retro board on 3.jan.2025](./public/retro-logs/swift-group-retro-3-jan.png)
 
-# Code validation - Team Swift
+## Code validation - Team Swift
 
 _Html validation report._ ![Html validation report](./public/validation-reports/html-report.jpeg)
 
